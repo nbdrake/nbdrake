@@ -1,5 +1,5 @@
-# Olá! 
-## Eu me chamo Nathan e sou apaixonado pela tecnologia, busco usar ela como ferramenta para trazer soluções práticas para o mundo real. 😁👍🏽
+# Olá mundo! 
+## Eu me chamo Nathan, desenvolvedor de software atualmente residindo no Brasil e apaixonado pela tecnologia, busco usar ela como ferramenta para trazer soluções práticas para o mundo real. 😁👍🏽
 
 ## 🖥️ Ferramentas e Tecnologias
 
